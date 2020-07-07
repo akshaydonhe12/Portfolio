@@ -123,12 +123,12 @@ a.contact-item .contact-item-title, a.contact-item p {
 
 .hero::before {
   content: '';
-  width: 40%;
+  width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(46, 51, 73, 0.75);
+  background: rgba(46, 51, 73, 0.40);
 }
 
 @media (max-width: 991.98px) {
