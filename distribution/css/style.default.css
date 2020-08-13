@@ -23,6 +23,8 @@ section {
   position: relative;
 }
 
+
+
 /* Timeline holder */
 ul.timeline {
   list-style-type: none;
@@ -289,6 +291,11 @@ a.contact-item .contact-item-title, a.contact-item p {
 
 .opacity-10 {
   opacity: 1;
+}
+
+.Heading {
+  font-size: larger;
+  font-weight: bold;
 }
 
 /*
